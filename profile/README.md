@@ -7,8 +7,7 @@
   </picture>
 </a>
 
-**The autonomous software factory.**
-Tickets in, reviewed pull requests out.
+### From idea to engineered software, with context intact.
 
 [beeverforge.com](https://beeverforge.com)
 
@@ -18,7 +17,7 @@ Tickets in, reviewed pull requests out.
 
 ## Community
 
-The open-source core. It runs on your machines, under Apache-2.0, with no vendor lock-in: a framework that runs software tickets autonomously with coding agents, where policies authorize actions and humans evaluate results.
+[**beeverforge-oss**](https://github.com/BeeverForge/beeverforge-oss) is the open-source core, under Apache-2.0. It runs on your machines, with no vendor lock-in: coding agents carry out the work, policies authorize every action, and people evaluate the results.
 
 ## Enterprise
 
